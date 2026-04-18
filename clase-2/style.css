@@ -132,7 +132,7 @@ a {
     color: var(--text); 
 }
 
-.history-item.active { 
+.history-item-active { 
     background: var(--surface-2); 
     color: var(--text); 
 }
@@ -218,7 +218,7 @@ a {
     gap: 8px; 
 }
  
-.compartir-btn, .configuracion-btn {
+.compartir-btn, .configuracion-btn, .tema-btn {
     width: 36px;
     height: 36px;
     border-radius: 10px;
